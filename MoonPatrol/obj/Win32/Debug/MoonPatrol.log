@@ -1,6 +1,6 @@
 ﻿  main.cpp
-C:\Users\Administrador\Desktop\MoonPatrol\MoonPatrol\src\main.cpp(91,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Administrador\Desktop\MoonPatrol\MoonPatrol\src\main.cpp(91,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Administrador\Desktop\MoonPatrol\MoonPatrol\src\main.cpp(92,61): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\Administrador\Desktop\MoonPatrol\MoonPatrol\src\main.cpp(92,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Administrador\Desktop\MoonPatrol\MoonPatrol\src\main.cpp(118,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Administrador\Desktop\MoonPatrol\MoonPatrol\src\main.cpp(118,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Administrador\Desktop\MoonPatrol\MoonPatrol\src\main.cpp(119,61): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Administrador\Desktop\MoonPatrol\MoonPatrol\src\main.cpp(119,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   MoonPatrol.vcxproj -> C:\Users\Administrador\Desktop\MoonPatrol\MoonPatrol\bin\Win32\Debug\MoonPatrol.exe
